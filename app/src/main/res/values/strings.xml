@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork01</string>
+    <string name="main_activity_name">Main Activity</string>
+    <string name="test_activity_name">Test Activity</string>
+    <string name="main_button_name">Main Button</string>
+    <string name="test_button_name">Test Button</string>
+</resources>
